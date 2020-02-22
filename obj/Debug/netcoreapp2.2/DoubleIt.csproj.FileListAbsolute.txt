@@ -1,0 +1,11 @@
+/Users/katysolovewicz/Projects/epicodus/c#/double-it/bin/Debug/netcoreapp2.2/DoubleIt.deps.json
+/Users/katysolovewicz/Projects/epicodus/c#/double-it/bin/Debug/netcoreapp2.2/DoubleIt.runtimeconfig.json
+/Users/katysolovewicz/Projects/epicodus/c#/double-it/bin/Debug/netcoreapp2.2/DoubleIt.runtimeconfig.dev.json
+/Users/katysolovewicz/Projects/epicodus/c#/double-it/bin/Debug/netcoreapp2.2/DoubleIt.dll
+/Users/katysolovewicz/Projects/epicodus/c#/double-it/bin/Debug/netcoreapp2.2/DoubleIt.pdb
+/Users/katysolovewicz/Projects/epicodus/c#/double-it/obj/Debug/netcoreapp2.2/DoubleIt.csprojAssemblyReference.cache
+/Users/katysolovewicz/Projects/epicodus/c#/double-it/obj/Debug/netcoreapp2.2/DoubleIt.csproj.CoreCompileInputs.cache
+/Users/katysolovewicz/Projects/epicodus/c#/double-it/obj/Debug/netcoreapp2.2/DoubleIt.AssemblyInfoInputs.cache
+/Users/katysolovewicz/Projects/epicodus/c#/double-it/obj/Debug/netcoreapp2.2/DoubleIt.AssemblyInfo.cs
+/Users/katysolovewicz/Projects/epicodus/c#/double-it/obj/Debug/netcoreapp2.2/DoubleIt.dll
+/Users/katysolovewicz/Projects/epicodus/c#/double-it/obj/Debug/netcoreapp2.2/DoubleIt.pdb
